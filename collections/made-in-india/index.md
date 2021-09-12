@@ -16,6 +16,7 @@ items:
  - bagisto/bagisto
  - gluster/glusterfs
  - frappe/frappe
+ - litmuschaos/litmus
  - spacecloud-io/space-cloud
  - shivammathur/setup-php
  - infracloudio/botkube
